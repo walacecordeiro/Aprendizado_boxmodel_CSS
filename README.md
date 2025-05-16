@@ -18,7 +18,7 @@ Um desafio nível iniciante feito pela Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="calendário da copa 2022" src="desafio.png" width="100%">
+  <img alt="calendário da copa 2022" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
