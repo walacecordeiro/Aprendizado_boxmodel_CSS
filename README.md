@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto-3-Desafio </h1>
+<h1 align="center"> Aprendizado boxmodel CSS </h1>
 
 <p align="center">
 Um desafio nível iniciante feito pela Rocketseat.
